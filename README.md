@@ -1,5 +1,5 @@
 # for_in
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/llstudent83/for_in)](https://ci.appveyor.com/api/projects/status/github/llstudent83/for_in)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/llstudent83/Nickname)](https://ci.appveyor.com/api/projects/status/github/llstudent83/Nickname)
 
 Легенда
 В рамках разработки игры периодически нужно печатать таблички, отображающие свойства объектов. Вам нужно реализовать функцию, которая для переданного объекта возвращает массив его свойств со значениями, отсортированный по свойствам (порядок сортировки свойств - второй аргумент).
